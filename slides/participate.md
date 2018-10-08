@@ -1,4 +1,4 @@
-# How can I participate?
+## How can I participate?
 
 We are looking for Talks/Events to be held at the event, if you'd like to put your name forward, our "Call for Participation" is [Here](https://s.flawcon.xyz/cfp)
 
