@@ -1,5 +1,30 @@
 [
-	"index.md",
-	"what-is-flawcon.md",
-	"participate.md"
+    "index.md",
+    "what-is-flawcon.md",
+    "participate.md",
+    [
+        "timetable/1.md",
+        "timetable/2.md"
+    ],
+    [
+        "staff/staff.md",
+        {
+            "filename": "staff/bonzi.md",
+            "attr": {
+                "data-background": "https://f4.bcbits.com/img/a1818480888_16.jpg"
+            }
+        },
+        {
+            "filename": "staff/dan.md",
+            "attr": {
+                "data-background": "https://i.imgur.com/pBJAviC.jpg"
+            }
+        },
+        {
+            "filename": "staff/tom.md",
+            "attr": {
+                "data-background": ""
+            }
+        }
+    ]
 ]
